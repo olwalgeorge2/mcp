@@ -2,6 +2,10 @@
 
 MCP Server for automated issue-to-PR pipeline with role-based AI agents.
 
+<a href="https://glama.ai/mcp/servers/@olwalgeorge2/mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@olwalgeorge2/mcp/badge" alt="Chiro ERP - Issue Pipeline Orchestrator MCP server" />
+</a>
+
 ## Overview
 
 This MCP server automates the software development workflow by processing GitHub issues through a multi-stage pipeline with specialized AI agents:
